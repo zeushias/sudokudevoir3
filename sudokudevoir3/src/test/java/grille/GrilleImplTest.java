@@ -3,8 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.zeushias.sudokudevoir3;
+package grille;
 
+import grille.GrilleImpl;
+import grille.Grille;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
